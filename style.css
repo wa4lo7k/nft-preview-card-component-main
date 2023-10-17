@@ -1,0 +1,104 @@
+ @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,9..144,700&family=League+Spartan:wght@500&family=Montserrat:wght@500;700&family=Outfit:wght@400;600;700&display=swap');
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.card {
+    border: 30px solid hsl(216, 50%, 16%);
+    padding-bottom: 40px;
+    border-radius: 14px;
+    background-color: hsl(216, 50%, 16%);
+    margin-top: 5%;
+}
+.card img {
+  height: 400px;
+  width: auto;
+  width: auto;
+  align-items: center;
+  border-radius: 14px;
+
+}
+.texthead  h3 {
+    color: hsl(0, 0%, 100%);
+    font-family: 'Fraunces', serif;
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Outfit', sans-serif;
+}
+.texthead p {
+    color: #8BACDA  ;
+    font-family: 'Fraunces', serif;
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Outfit', sans-serif;
+}
+.ETH {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: 'Fraunces', serif;
+font-family: 'League Spartan', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Outfit', sans-serif;
+    position: relative;
+    right: -20px;
+}
+.ETH img {
+    height: 20px;
+    width: auto;
+}
+#eth1 {
+    color: #00fff7;
+    font-family: 'Fraunces', serif;
+font-family: 'League Spartan', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Outfit', sans-serif;
+    
+}
+#eth2 {
+    color: #8BACDA;
+    font-family: 'Fraunces', serif;
+font-family: 'League Spartan', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Outfit', sans-serif;
+}
+.me {
+    position: relative;
+    top: 40px;
+    display: flex;
+    /* justify-content: space-around; */
+    color: #8BACDA;
+    font-size: 18px;
+    font-family: 'Fraunces', serif;
+font-family: 'League Spartan', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Outfit', sans-serif;
+    left: 20px;
+}
+.me img {
+    height: 30px;
+    border: 1px solid white;
+}
+.me span{
+    color: white;
+    position: relative;
+    left: 2px;
+}
+.me p {
+    position: relative;
+    left: 10px;
+}
+.break {
+    border:1px solid hsl(215, 32%, 27%);
+ position: relative;
+ top: 20px;
+}
