@@ -2,7 +2,7 @@
 This is a web model of nftpreview card component main, feel free to edit or suggest changes
 #NFT preview card component
 
-![Design preview for the NFT preview card component coding challenge](./design/desktop-view.jpg)
+![Design preview for the NFT preview card component coding challenge](desktop-view.jpg)
 
 ## Welcome! 👋
 
